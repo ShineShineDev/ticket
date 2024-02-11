@@ -4,7 +4,7 @@ import { authenticateToken } from '../middleware/auth';
 
 
 const roleRoute = Router();
-roleRoute.use(authenticateToken); 
+//roleRoute.use(authenticateToken); 
 
 roleRoute.post('/', RoleController.create);
 roleRoute.get('/', RoleController.showAll);
