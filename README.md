@@ -76,7 +76,7 @@ git clone https://github.com/ShineShineDev/ticket.git
 
 
 
-### Run Front App
+### Run Front End App
 
 ```js
 $ cd ticket/
