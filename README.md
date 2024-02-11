@@ -42,7 +42,7 @@ https://drive.google.com/drive/folders/1TcLjQT3HIc49yTPCS0rNVMoKeN_mffnO?usp=sha
 ### Usage
 
 - `Front-End`
-- `Vue + coreUI`
+  - `Vue + coreUI`
 - `Back-End`
   - `Nodejs + Express +  Typescript + TypeORM`
 - `Database`
