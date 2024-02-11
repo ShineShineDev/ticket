@@ -80,25 +80,30 @@ $ npm run dev
 > //back-end/ormconfig.json
 > 
 > {
->   "type": "mongodb",
->   "url": "mongodb+srv://ticket:cLAMFYAbDyYw5zzU@cluster0.xawwpks.mongodb.net/ticket?retryWrites=true&w=majority",
->   "useNewUrlParser": true,
->   "synchronize": true,
->   "logging": true,
->   "entities": ["src/models/**/*.ts"],
->   "migrations": ["src/migrations/**/*.ts"],
->   "subscribers": ["src/subscribers/**/*.ts"],
->   "cli": {
->     "entitiesDir": "src/models",
->     "migrationsDir": "src/migrations",
->     "subscribersDir": "src/subscribers"
->   }
+> "type": "mongodb",
+> "url": "mongodb+srv://ticket:cLAMFYAbDyYw5zzU@cluster0.xawwpks.mongodb.net/ticket?retryWrites=true&w=majority",
+> "useNewUrlParser": true,
+> "synchronize": true,
+> "logging": true,
+> "entities": ["src/models/**/*.ts"],
+> "migrations": ["src/migrations/**/*.ts"],
+> "subscribers": ["src/subscribers/**/*.ts"],
+> "cli": {
+>  "entitiesDir": "src/models",
+>  "migrationsDir": "src/migrations",
+>  "subscribersDir": "src/subscribers"
+> }
 > }
 > ```
 >
 > 
 
 
+
+:warning: Please let me know if you have any questions or errors
+
+ -	 09 7877 966 98
+ -	aungshine194@gmail.com
 
 
 
