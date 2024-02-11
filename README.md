@@ -54,7 +54,7 @@ $ cd front-end/
 $ npm i    
 $ npm run serve
 ```
-browse on => http://localhost:8080/ 
+Browse on => http://localhost:8080/ 
 
 > ##### Config For Back-End Connections
 >
@@ -74,7 +74,7 @@ $ cd back-end/
 $ npm i    
 $ npm run dev
 ```
-
+Browse on => http://localhost:3000
 > #### Config For Database Connections
 >
 > ```js
