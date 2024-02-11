@@ -54,6 +54,7 @@ $ cd front-end/
 $ npm i    
 $ npm run serve
 ```
+browse on => http://localhost:8080/ 
 
 > ##### Config For Back-End Connections
 >
