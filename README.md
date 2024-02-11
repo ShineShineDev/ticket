@@ -2,7 +2,38 @@
 
 
 
-### ShowCase Photo Link
+### System Overview
+
+> The Ticket Management System enables staff to Create, Read, Update, and Delete tickets. Supervisors and leaders have extended capabilities, including the creation of Way, Bus, and Passengers in addition to reviewing staff-created tickets.
+
+
+
+### Key Features
+
+1. **User Roles**
+
+   - Staff: CRUD operations on tickets.
+   - Supervisor/Leader: View and Review staff tickets, Create Way, Bus, and Passengers.
+
+2. **Ticket Lifecycle Management**
+
+   - Create, Read, Update, Delete tickets.
+
+3. **Fleet Management**
+
+   - Supervisors and leaders can create Ways, adding buses and managing passenger details.
+
+4. **User-Friendly Interface:**
+
+   - Intuitive design for easy navigation.
+
+5. **Security and Access Control**
+
+   - Secure authentication and access controls.
+
+     
+
+### Show Case Photos Link
 
 https://drive.google.com/drive/folders/1TcLjQT3HIc49yTPCS0rNVMoKeN_mffnO?usp=sharing
 
@@ -54,6 +85,7 @@ $ cd front-end/
 $ npm i    
 $ npm run serve
 ```
+
 Browse on => http://localhost:8080/ 
 
 > ##### Config For Back-End Connections
@@ -74,7 +106,9 @@ $ cd back-end/
 $ npm i    
 $ npm run dev
 ```
+
 Browse on => http://localhost:3000
+
 > #### Config For Database Connections
 >
 > ```js
@@ -90,9 +124,9 @@ Browse on => http://localhost:3000
 > "migrations": ["src/migrations/**/*.ts"],
 > "subscribers": ["src/subscribers/**/*.ts"],
 > "cli": {
->  "entitiesDir": "src/models",
->  "migrationsDir": "src/migrations",
->  "subscribersDir": "src/subscribers"
+> "entitiesDir": "src/models",
+> "migrationsDir": "src/migrations",
+> "subscribersDir": "src/subscribers"
 > }
 > }
 > ```
@@ -104,11 +138,4 @@ Browse on => http://localhost:3000
 :warning: Please let me know if you have any questions or errors
 
  -	 09 7877 966 98
- -	aungshine194@gmail.com
-
-
-
-
-
-
-
+ -	 aungshine194@gmail.com
